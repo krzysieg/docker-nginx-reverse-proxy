@@ -1,0 +1,1 @@
+You can change proxy settings in file `default.conf`. It is bind mounted if you used `./run.sh` script. Restart container after config change.
